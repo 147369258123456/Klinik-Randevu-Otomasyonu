@@ -1,0 +1,30 @@
+C:\Users\HP\Desktop\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\bin\Debug\DisKlinigiRandevu.exe.config
+C:\Users\HP\Desktop\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\bin\Debug\DisKlinigiRandevu.exe
+C:\Users\HP\Desktop\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\bin\Debug\DisKlinigiRandevu.pdb
+C:\Users\HP\Desktop\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.Anasayfa.resources
+C:\Users\HP\Desktop\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.Form1.resources
+C:\Users\HP\Desktop\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.Hasta.resources
+C:\Users\HP\Desktop\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.Properties.Resources.resources
+C:\Users\HP\Desktop\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.Randevu.resources
+C:\Users\HP\Desktop\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.Receteler.resources
+C:\Users\HP\Desktop\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.Tedavi.resources
+C:\Users\HP\Desktop\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.exe
+C:\Users\HP\Desktop\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.pdb
+C:\Users\HP\Desktop\Projeler\mustafa hoca c#\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\bin\Debug\DisKlinigiRandevu.exe.config
+C:\Users\HP\Desktop\Projeler\mustafa hoca c#\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\bin\Debug\DisKlinigiRandevu.exe
+C:\Users\HP\Desktop\Projeler\mustafa hoca c#\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\bin\Debug\DisKlinigiRandevu.pdb
+C:\Users\HP\Desktop\Projeler\mustafa hoca c#\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Projeler\mustafa hoca c#\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.Anasayfa.resources
+C:\Users\HP\Desktop\Projeler\mustafa hoca c#\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.Form1.resources
+C:\Users\HP\Desktop\Projeler\mustafa hoca c#\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.Hasta.resources
+C:\Users\HP\Desktop\Projeler\mustafa hoca c#\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.Properties.Resources.resources
+C:\Users\HP\Desktop\Projeler\mustafa hoca c#\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.Randevu.resources
+C:\Users\HP\Desktop\Projeler\mustafa hoca c#\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.Receteler.resources
+C:\Users\HP\Desktop\Projeler\mustafa hoca c#\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.Tedavi.resources
+C:\Users\HP\Desktop\Projeler\mustafa hoca c#\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Projeler\mustafa hoca c#\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projeler\mustafa hoca c#\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.exe
+C:\Users\HP\Desktop\Projeler\mustafa hoca c#\finalödevidiskliniği\DisKlinigiRandevu\DisKlinigiRandevu\obj\Debug\DisKlinigiRandevu.pdb
